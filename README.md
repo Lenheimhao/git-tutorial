@@ -12,4 +12,4 @@
 
 
 	-fix-B
-	typo
+	type
