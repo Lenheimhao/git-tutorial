@@ -12,4 +12,3 @@
 
 
 	-fix-B
-	type
